@@ -5,3 +5,5 @@ def parrot(string="Squack")
   return string
   puts string
 end
+
+parrot
